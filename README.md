@@ -1,5 +1,5 @@
 
 # Python_Fundamentals
 
-SoftUni course
+ Learing Python course from SoftUni - https://softuni.bg/
 
